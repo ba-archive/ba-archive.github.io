@@ -1,0 +1,1 @@
+System.register(["./index-legacy.3cf310d3.js"],(function(e,r){"use strict";var t,n,c,i;return{setters:[function(e){t=e._,n=e.o,c=e.e,i=e.a}],execute:function(){var r={},s={class:"fill-screen center"},a=[i("div",{class:"content-wrapper flex-vertical acrylic rounded"}," 主线剧情在做了在做了 ",-1)];e("default",t(r,[["render",function(e,r){return n(),c("div",s,a)}]]))}}}));

@@ -1090,7 +1090,7 @@
     cn: 梓(泳装)
     jp: アズサ（水着）
     en: Azusa (Swimsuit)
-  nickname: []
+  nickname: [ 水梓 ]
   club: 补习部
   affiliation: 圣三一
   rarity: 3
@@ -1147,7 +1147,7 @@
     cn: 日富美(泳装)
     jp: ヒフミ（水着）
     en: Hifumi (Swimsuit)
-  nickname: [ 小天使, 一二三, "123", 浮士德 ]
+  nickname: [ 小天使, 一二三, 123, 浮士德 ]
   club: 补习部
   affiliation: 圣三一
   rarity: 3
@@ -1793,7 +1793,7 @@
     cn: 伊吕波
     jp: イロハ
     en: Iroha
-  nickname: []
+  nickname: [ 168 ]
   club: 万魔殿
   affiliation: 格赫那
   rarity: 3
@@ -1964,7 +1964,7 @@
     cn: 星野(泳装)
     jp: ホシノ（水着）
     en: Hoshino (Swimsuit)
-  nickname: [ 水大叔 ]
+  nickname: [ 水大叔, 水星野 ]
   club: 废校对策委员会
   affiliation: 阿拜多斯
   rarity: 3

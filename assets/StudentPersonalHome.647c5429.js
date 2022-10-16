@@ -1,0 +1,1 @@
+import{_ as e,o as t,e as a,t as r}from"./index.a7e3409d.js";const s={class:"fill-width flex-vertical rounded"};const o=e({},[["render",function(e,o){return t(),a("div",s," Student Personal Plot "+r(e.$route.params.id),1)}]]);export{o as default};
