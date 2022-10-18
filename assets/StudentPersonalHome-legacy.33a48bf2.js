@@ -1,1 +1,0 @@
-System.register(["./index-legacy.3cf310d3.js"],(function(e,t){"use strict";var r,n,i,u;return{setters:[function(e){r=e._,n=e.o,i=e.e,u=e.t}],execute:function(){var t={class:"fill-width flex-vertical rounded"};e("default",r({},[["render",function(e,r){return n(),i("div",t," Student Personal Plot "+u(e.$route.params.id),1)}]]))}}}));
