@@ -1,1 +1,0 @@
-System.register(["./index-legacy.bf0173b2.js"],(function(t,n){"use strict";var e;return{setters:[function(t){e=t.y}],execute:function(){t("m",e("main",{state:function(){return{lang:"zh"}},persist:!0,getters:{getLang:function(t){return t.lang}},actions:{setLang:function(t){this.lang=t}}}))}}}));

@@ -1,0 +1,1 @@
+import{_ as e,o as t,e as a,t as r}from"./index.a070e7a4.js";const n={class:"flex-vertical rounded"};const o=e({},[["render",function(e,o){return t(),a("div",n," Student Story Container "+r(e.$route.params.id),1)}]]);export{o as default};
