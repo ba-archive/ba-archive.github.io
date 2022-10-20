@@ -1,0 +1,1 @@
+System.register(["./index-legacy.c3834733.js"],(function(e,r){"use strict";var t,n,c,i;return{setters:[function(e){t=e._,n=e.o,c=e.e,i=e.a}],execute:function(){var r={},s={class:"fill-screen center"},u=[i("div",{class:"content-wrapper flex-vertical rounded"}," Mini Story 在做了在做了 ",-1)];e("default",t(r,[["render",function(e,r){return n(),c("div",s,u)}]]))}}}));
