@@ -1,0 +1,1 @@
+System.register(["./index-legacy.753b8c7a.js"],(function(e,r){"use strict";var t,n,c,s;return{setters:[function(e){t=e._,n=e.o,c=e.e,s=e.a}],execute:function(){var r={},i={class:"fill-screen center"},a=[s("div",{class:"content-wrapper flex-vertical rounded"}," 社团剧情在做了在做了 ",-1)];e("default",t(r,[["render",function(e,r){return n(),c("div",i,a)}]]))}}}));
