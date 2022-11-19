@@ -64,7 +64,7 @@
     cn: 日富美
     jp: ヒフミ
     en: Hifumi
-  nickname: [小天使, 一二三, "123", 浮士德, 鸡妹]
+  nickname: [小天使, 一二三, '123', 浮士德, 鸡妹]
   club: 补习部
   affiliation: 圣三一
   rarity: 3
@@ -1147,7 +1147,7 @@
     cn: 日富美(泳装)
     jp: ヒフミ（水着）
     en: Hifumi (Swimsuit)
-  nickname: [小天使, 一二三, "123", 浮士德, 水鸡妹, 水日富美]
+  nickname: [小天使, 一二三, '123', 浮士德, 水鸡妹, 水日富美]
   club: 补习部
   affiliation: 圣三一
   rarity: 3
@@ -1231,7 +1231,7 @@
   armorType: HeavyArmor
   weapon: AR
   availability:
-    momotalk: true
+    momotalk: false
     story: false
 - id: 10025
   familyName:
@@ -2180,6 +2180,63 @@
   type: Special
   armorType: HeavyArmor
   weapon: HG
+  availability:
+    momotalk: false
+    story: false
+- id: 10053
+  familyName:
+    cn: 早濑
+    jp: 早瀬
+    en: Hayase
+  name:
+    cn: 优香(体操服)
+    jp: ユウカ（体操服）
+    en: Yuuka
+  nickname: [有包人, 管账婆, 阻冲之, 佑香, 体香]
+  club: 研讨会
+  affiliation: 千年
+  rarity: 3
+  type: Striker
+  armorType: Unarmed
+  weapon: SMG
+  availability:
+    momotalk: false
+    story: true
+- id: 10054
+  familyName:
+    cn: 伊落
+    jp: 伊落
+    en: Iochi
+  name:
+    cn: 玛丽(体操服)
+    jp: マリー（体操服）
+    en: Mari
+  nickname: [修女]
+  club: 修女会
+  affiliation: 圣三一
+  rarity: 3
+  type: Special
+  armorType: Unarmed
+  weapon: HG
+  availability:
+    momotalk: false
+    story: false
+- id: 16011
+  familyName:
+    cn: 羽川
+    jp: 羽川
+    en: Hanekawa
+  name:
+    cn: 莲见(体操服)
+    jp: ハスミ（体操服）
+    en: Hasumi
+  nickname: []
+  club: 正义实现委员会
+  affiliation: 圣三一
+  rarity: 1
+  type: Striker
+  armorType: Unarmed
+  weapon: SR
   availability:
     momotalk: false
     story: false
