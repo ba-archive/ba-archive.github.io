@@ -1,0 +1,1 @@
+import{d as e,f as s,k as a,a as r}from"./index.b72419d9.js";const t={class:"fill-screen center"},i=[r("div",{class:"content-wrapper flex-vertical rounded-small"}," Mini Story 在做了在做了 ",-1)],n=e({__name:"MiniStoryHome",setup:e=>(e,r)=>(a(),s("div",t,i))});export{n as default};
