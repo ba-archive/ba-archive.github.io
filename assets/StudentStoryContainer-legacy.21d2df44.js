@@ -1,1 +1,0 @@
-System.register(["./index-legacy.ea1da990.js"],(function(t,e){"use strict";var n,r,u,a;return{setters:[function(t){n=t.d,r=t.f,u=t.t,a=t.k}],execute:function(){var e={class:"flex-vertical rounded-small"};t("default",n({__name:"StudentStoryContainer",setup:function(t){return function(t,n){return a(),r("div",e," Student Story Container "+u(t.$route.params.id),1)}}}))}}}));
