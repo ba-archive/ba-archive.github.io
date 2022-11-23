@@ -1,1 +1,0 @@
-import{d as a,f as t,t as e,k as s}from"./index.143ae30a.js";const r={class:"flex-vertical rounded-small"},n=a({__name:"StudentStoryContainer",setup:a=>(a,n)=>(s(),t("div",r," Student Story Container "+e(a.$route.params.id),1))});export{n as default};
