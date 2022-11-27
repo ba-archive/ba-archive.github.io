@@ -1,1 +1,0 @@
-import{d as e,a,o as s,b as r}from"./index.0b194b60.js";const t={class:"fill-screen center"},l=[r("div",{class:"content-wrapper flex-vertical rounded-small"}," 主线剧情在做了在做了 ",-1)],n=e({__name:"MainStoryHome",setup:e=>(e,r)=>(s(),a("div",t,l))});export{n as default};
