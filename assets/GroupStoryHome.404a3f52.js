@@ -1,0 +1,1 @@
+import{d as e,a,o as s,b as r}from"./index.9afffc50.js";const o={class:"fill-screen center"},t=[r("div",{class:"content-wrapper flex-vertical rounded-small"}," 社团剧情在做了在做了 ",-1)],l=e({__name:"GroupStoryHome",setup:e=>(e,r)=>(s(),a("div",o,t))});export{l as default};
