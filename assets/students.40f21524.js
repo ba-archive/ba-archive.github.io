@@ -1,1 +1,0 @@
-import{y as t}from"./index.bc32844c.js";const s=t({id:"student",state:()=>({students:[]}),persist:!1,getters:{getAllStudents:t=>t.students,getStudentById:t=>s=>t.students.find((t=>t.id===s))},actions:{setStudents(t){this.students=t}}});export{s as u};
