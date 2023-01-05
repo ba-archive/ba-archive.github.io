@@ -1,0 +1,1 @@
+import{z as t}from"./index-352caeb9.js";const s=t({id:"ba-students-storage",state:()=>({students:[]}),persist:!1,getters:{getAllStudents:t=>t.students,getStudentById:t=>s=>t.students.find((t=>t.id===s))},actions:{setStudents(t){this.students=t}}});export{s as u};
